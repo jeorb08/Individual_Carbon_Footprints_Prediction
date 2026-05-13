@@ -22,7 +22,3 @@ Models Implemented:
 Random Forest
 XGBoost
 MLP (Multi-Layer Perceptron)
-🚀 How to Run the Project
-Clone the repository
-git clone https://github.com/CodebySiyam/Individual_Carbon_Footprints_Prediction.git
-cd Individual_Carbon_Footprints_Prediction
